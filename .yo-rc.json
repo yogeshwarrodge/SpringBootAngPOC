@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.neosoft",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.4.1",
+    "applicationType": "monolith",
+    "baseName": "SpringBootPOC",
+    "packageName": "com.neosoft",
+    "packageFolder": "com/neosoft",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YmNlOTFkYzA3ZmNmYjgwNzJiYmI5YzNkNDYyNzYxOTI5Y2M3OTUzMDE4NGEzZDg4MjI4ZWIyMjliMTZhNTg2NjE2MTc3MTdmNmQ4YmU2MGM0ODJjNGU1MDEyMzQzMjNmNmJhNDI4ZTMyZmZhYWNjMmZmZmE4NzVmYjgxZjA4ZjA=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en", "hi", "mr"],
+    "blueprints": []
+  }
+}
